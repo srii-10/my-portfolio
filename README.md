@@ -1,17 +1,13 @@
 # Hello, I'm Sri
 <a href="https://linkedin.com/sri-septina-marpaung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am an active student of the Information Systems Study Program who has a focus on the field of cybersecurity, especially in the role of Cybersecurity Analyst. With a strong interest in technological developments and digital security issues, I continue to develop competencies in cyber threat analysis, incident investigation, and application of information security principles.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Seeking an internship or entry-level position in the cybersecurity field, specifically as a Cybersecurity Analyst, to apply academic knowledge and expand practical experience in keeping information systems safe from various cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
