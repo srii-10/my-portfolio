@@ -12,7 +12,7 @@ Looking for internship opportunities in the cybersecurity field, specifically as
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis ang Detect Suspicious Activity   | <a href="https://google.com">Log Analysis Lab</a>                          |
+| Log Analysis ang Detect Suspicious Activity   | <a href="https://github.com/srii-10/Log-Analysis-System-Lab/blob/main/README.md">Log Analysis System Lab</a>                          |
 | Network Traffic Monitoring                    | <a href="https://google.com">Network Analysis Lab</a>                      |
 | Detects The Hops Traveled by The Data Packet  | <a href="https://google.com">Tracert Testing in Cisco Packet Tracer</a>    |
 | Identify Potential Security Gaps              | <a href="https://google.com">Network Scanning Lab</a>                      |
@@ -30,7 +30,7 @@ Looking for internship opportunities in the cybersecurity field, specifically as
 
 ## Projects
 
-- Log Analysis Lab
+- <a href="https://github.com/srii-10/Log-Analysis-System-Lab/blob/main/README.md">Log Analysis System Lab</a>
 - Network Analysis Lab
 - Tracert Testing in Cisco Packet Tracer
 - Network Scanning Lab
