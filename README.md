@@ -45,5 +45,5 @@ Looking for internship opportunities in the cybersecurity field, specifically as
 | ----------------------------------------------|---------------------------------------------------------------------------|
 | Log Analysis ang Detect Suspicious Activity   | <a href="https://github.com/srii-10/Log-Analysis-System-Lab/blob/main/README.md">Log Analysis System Lab</a> |
 | Network Traffic Monitoring (Wireshark)        | <a href="https://google.com">Network Analysis Lab</a>                      |
-| Detects The Hops Traveled by The Data Packet  | <a href="https://google.com">Tracert Testing in Cisco Packet Tracer</a>    |
+| Detects The Hops Traveled by The Data Packet  | <a href="https://github.com/srii-10/Tracert-Testing-in-Cisco-Packet-Tracer/blob/main/README.md">Tracert Testing in Cisco Packet Tracer</a>    |
 | Identify Potential Security Gaps              | <a href="https://github.com/srii-10/nmap-lab/blob/main/README.md">Network Scanning Lab</a> |
