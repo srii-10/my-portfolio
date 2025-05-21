@@ -26,12 +26,6 @@ Looking for internship opportunities in the cybersecurity field, specifically as
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-#### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Windows-1679A7?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Linux (Ubuntu/Kali)-FCC624?&style=for-the-badge&logo=linux&logoColor=000" />
-</div>
-
 ### Soft Skills
 - Communication
 - Poblem solving
