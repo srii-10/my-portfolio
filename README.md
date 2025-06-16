@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sriisept_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-septina-marpaung/)
 
-I am an Information Systems student with a keen interest in computer networking and cybersecurity, with a strong basic understanding of TCP/IP concepts, network configuration, incident analysis, threat detection and network traffic monitoring. Have a basic understanding of using tools such as Cisco Packet Tracer, Nmap, and Wireshark for network simulation and analysis.
+Hi! I am an active student of the Information Systems Study Program with a great interest in the field of cybersecurity, especially in the role of Cybersecurity Analyst. I am currently actively exploring the basic concepts of information security, incident analysis, and system security testing techniques. I am accustomed to working analytically, have a high interest in technical problem solving, and am developing my technical skills through various trainings, simulations, and personal projects. I am enthusiastic to contribute to a work environment that supports development in the field of digital security.
 
 ## Objective
 
