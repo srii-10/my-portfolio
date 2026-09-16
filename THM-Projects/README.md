@@ -1,10 +1,10 @@
-# TryHackMe Projects
+## TryHackMe Projects
 
 Hands-on cybersecurity projects completed through TryHackMe labs & challenges, with a focus on security investigation, analysis, and practical problem-solving.
 
-## Projects
+### Projects
 
-### Project 01 - Alert Investigation
+#### Project 01 - Alert Investigation
 **Cases:**
 - Case 01 - Inbound Email Containing Suspicious External Link
 - Case 02 - Inbound Email Containing Suspicious External Link
