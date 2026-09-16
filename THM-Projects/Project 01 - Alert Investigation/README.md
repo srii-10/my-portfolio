@@ -20,6 +20,7 @@ TryHackMe Cloud-Based SOC Simulator: “Introduction to Phishing”.
 
 ### Cases
 | Case | Severity | Type | Verdict|
+|------|----------|------|--------|
 | Case 01 - Inbound Email Containing Suspicious External Link | Medium | Phishing | FP |
 | Case 02 - Inbound Email Containing Suspicious External Link | Medium | Phishing | TP |
 | Case 03 - Access to Blacklisted External URL Blocked by Firewall | High | Firewall | TP |
