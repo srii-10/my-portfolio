@@ -21,7 +21,7 @@ TryHackMe Cloud-Based SOC Simulator: “Introduction to Phishing”.
 ### Cases
 | Alert Case | Severity | Type | Verdict|
 |-----------------|----------|------|--------|
-| [Case 01 - Legitimate Employee Onboarding Email](./) | Medium | Phishing | FP |
+| [Case 01 - Legitimate Employee Onboarding Email](./Case-01-Legitimate-Employee-Onboarding-Email.md) | Medium | Phishing | FP |
 | [Case 02 - URL Shortening Sent by a Suspicious Sender](./) | Medium | Phishing | TP |
 | [Case 03 - Blacklisted External URL Blocked by Firewall](./) | High | Firewall | TP |
 | [Case 04 - Spoofed Domain Sending Suspicious URL](./) | Medium | Phishing | TP |
