@@ -2,6 +2,7 @@
 
 ### Alert Information
 <img width="719" height="359" alt="Screenshot 2026-09-17 095210" src="https://github.com/user-attachments/assets/14d2ab51-f60f-4e00-8b3c-ae70751fe2eb" />
+
 **List of affected entities:**
 - Recipient: `h.harris@thetrydaily.thm`
 - IP: `10.20.2.17`
