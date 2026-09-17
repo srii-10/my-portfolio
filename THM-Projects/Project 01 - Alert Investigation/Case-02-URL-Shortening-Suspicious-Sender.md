@@ -16,10 +16,10 @@
 ### Investigation & Analysis
 The alert indicated that `urgents@amazon.biz` sent an email to `h.harris@thetrydaily.thm` regarding an incomplete shipping address that needed to be filled out and the message appeared to be urgent, at 09/17/2026 03:47. The email contained a suspicious URL shortener: `http://bit.ly/3sHkX3da12340`, with the intent of getting `h.harris@thetrydaily.thm` to open the URL.
 
-The URL was analyzed using TryDetectThis and flagged as MALICIOUS.
+The URL was analyzed using TryDetectThis and flagged as MALICIOUS.<br>
 <img width="652" height="274" alt="Screenshot 2026-09-17 095538" src="https://github.com/user-attachments/assets/cec31998-4e47-4cc0-ab2f-69f27d00d914" />
 
-It was also discovered that the URL leads to an unknown IP address: 67.199.248.11, which was also flagged as MALICIOUS.
+It was also discovered that the URL leads to an unknown IP address: 67.199.248.11, which was also flagged as MALICIOUS.<br>
 <img width="654" height="271" alt="Screenshot 2026-09-17 095605" src="https://github.com/user-attachments/assets/8d2b73fc-de77-4337-a4cf-dc2513ac49e6" />
 
 This activity potentially indicates a phishing email and a malicious URL related to Spearphishing Link T1598.003 in MITRE ATTACK.
