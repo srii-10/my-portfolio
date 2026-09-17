@@ -2,15 +2,15 @@
 
 ### Alert Information
 <img width="719" height="359" alt="Screenshot 2026-09-17 095210" src="https://github.com/user-attachments/assets/14d2ab51-f60f-4e00-8b3c-ae70751fe2eb" />
-**List of affected entities:** <br>
-Recipient: `h.harris@thetrydaily.thm` <br>
-IP: `10.20.2.17` <br>
-Host: `win-3457`
-<br>
-**List of attack indicators:** <br>
-Sender: `urgents@amazon.biz` <br>
-URL: `http://bit.ly/3sHkX3da12340`
-Destination IP: `67.199.248.11`
+**List of affected entities:**
+- Recipient: `h.harris@thetrydaily.thm`
+- IP: `10.20.2.17`
+- Host: `win-3457`
+
+**List of attack indicators:**
+- Sender: `urgents@amazon.biz` <br>
+- URL: `http://bit.ly/3sHkX3da12340`<br>
+- Destination IP: `67.199.248.11`
 
 ### Investigation & Analysis
 The alert indicated that `urgents@amazon.biz` sent an email to `h.harris@thetrydaily.thm` regarding an incomplete shipping address that needed to be filled out and the message appeared to be urgent, at 09/17/2026 03:47. The email contained a suspicious URL shortener: `http://bit.ly/3sHkX3da12340`, with the intent of getting `h.harris@thetrydaily.thm` to open the URL.
@@ -29,6 +29,11 @@ This activity potentially indicates a phishing email and a malicious URL related
 | True Positive (TP) | Escalation is needed for further investigation |
 
 ### Final Asessment
+Based on the available evidence and analysis, this alert is classified as a **True Positive**. The associated URL and destination IP address that have been analyzed are assessed as MALICIOUS by TryDetectThis. This activity indicates a Phishing Email attack containing a malicious URL related to Spearphishing Link T1598.003 in the MITRE ATTACK.
 
+Escalation is required for further investigation to determine whether there is outbound traffic, whether the user attempted to access the URL, or whether the host/account has been compromised.
 
 ### Remediation Recommendations
+No immediate remediation is required at this time.
+
+Monitoring will continue to detect any other suspicious indicators while this case is further analyzed. Further mitigation or remediation actions should be considered if subsequent analysis confirms the presence of malicious activity.
