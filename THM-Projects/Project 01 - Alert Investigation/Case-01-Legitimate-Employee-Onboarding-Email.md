@@ -12,6 +12,7 @@
 At 09/17/2026 03:44, `onboarding@hrconnex.thm` sent a notification email to `j.garcia@thetrydaily.thm` regarding the completion of a new employee’s profile setup. The email also included a URL to `https://hrconnex.thm/onboarding/15400654060/j.garcia`.
 
 The URL was analyzed using TryDetectThis and flagged as CLEAN. No malicious or suspicious activity was detected during the URL analysis.
+
 <img width="656" height="273" alt="Screenshot 2026-09-17 095445" src="https://github.com/user-attachments/assets/a4143041-c1dc-4e83-986e-23728ebf8617" />
 
 Based on the context of the email, it is likely that the sender’s address is used by the HR Onboarding Team for new employee orientation purposes. However, this cannot be independently verified using available analysis tools, as TryDetectThis only analyzes URLs and IP addresses.
