@@ -11,7 +11,7 @@
 **List of attack indicators:**
 - Sender: `urgents@amazon.biz` <br>
 - URL: `http://bit.ly/3sHkX3da12340`<br>
-- Destination IP: `67.199.248.11`
+- Destination IP of the URL: `67.199.248.11`
 
 ### Investigation & Analysis
 The alert indicated that `urgents@amazon.biz` sent an email to `h.harris@thetrydaily.thm` regarding an incomplete shipping address that needed to be filled out and the message appeared to be urgent, at 09/17/2026 03:47. The email contained a suspicious URL shortener: `http://bit.ly/3sHkX3da12340`, with the intent of getting `h.harris@thetrydaily.thm` to open the URL.
