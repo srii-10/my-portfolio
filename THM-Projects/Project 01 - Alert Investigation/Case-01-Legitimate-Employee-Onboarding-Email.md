@@ -3,9 +3,9 @@
 ### Alert Information
 <img width="721" height="370" alt="Screenshot 2026-09-17 095131" src="https://github.com/user-attachments/assets/083a65b9-6a42-4457-ab79-715a29a355c9" />
 
-List of related entities:
-Sender: `onboarding@hrconnex.thm`
-Recipient: `j.garcia@thetrydaily.thm`
+List of related entities:<br>
+Sender: `onboarding@hrconnex.thm`<br>
+Recipient: `j.garcia@thetrydaily.thm`<br>
 URL: `https://hrconnex.thm/onboarding/15400654060/j.garcia`
 
 ### Investigation & Analysis
@@ -19,7 +19,7 @@ Based on the context of the email, it is likely that the sender’s address is u
 The available evidence does not indicate any suspicious indicators associated with the sender or the URL.
 
 ### Classification & Escalation
-Classification: False Positive (FP)
+Classification: False Positive (FP)<br>
 Escalation: No need to escalate
 
 ### Final Assessment
