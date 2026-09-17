@@ -10,7 +10,7 @@
 ### Environment & Tools
 This project uses the Cloud-Based SOC Simulator: “Introduction to Phishing” provided by TryHackMe to analyze, investigate, classify, and write security alert reports.
 
-| Tool / Component    | Purpose                                                                                                               |
+| Tools / Components    | Purpose                                                                                                               |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Documentations**  | Provides guidance on alert triage, classification, and reporting, as well as information about employees such as email addresses, hosts, and IP addresses and the corporate network.  |
 | **Dashboard**       | Displays security alerts and provides initial information and context for each alert.                                 |
