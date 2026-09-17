@@ -19,8 +19,9 @@ Based on the context of the email, it is likely that the sender’s address is u
 The available evidence does not indicate any suspicious indicators associated with the sender or the URL.
 
 ### Classification & Escalation
-**Classification:** False Positive (FP)<br>
-**Escalation:** No need to escalate
+| Classification       | Escalation          |
+|----------------------|---------------------|
+| False Positive (FP)  | No need to escalate |
 
 ### Final Assessment
 The alert is classified as a **False Positive** based on the available evidence and analysis. The email content is consistent with a legitimate employee onboarding notification, and the associated URL is flagged as CLEAN by TryDetectThis.
