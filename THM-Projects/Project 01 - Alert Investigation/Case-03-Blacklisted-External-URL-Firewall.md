@@ -22,7 +22,7 @@ The URL is on the company's blacklist because it has been flagged as MALICIOUS b
 The destination IP address is also flagged as MALICIOUS.<br>
 <img width="654" height="271" alt="Screenshot 2026-09-17 095605" src="https://github.com/user-attachments/assets/63fc7fd7-daeb-43f0-be94-ca602444bb56" />
 
-This alert is linked to a previously identified phishing email that targeted the same user a few minutes ago. The user attempted to access the malicious URL, but the connection was blocked by the firewall. No evidence of a successful compromise was found during the investigation.
+The alert is linked to a previously identified phishing email that targeted the same user a few minutes ago. The user attempted to access the malicious URL, but the connection was blocked by the firewall. No evidence of a successful compromise was found during the investigation.
 
 ### Classification & Escalation
 | Classification     | Escalation   |
