@@ -30,9 +30,11 @@ The alert is linked to a previously identified phishing email that targeted the 
 | True Positive (TP) | Not required |
 
 ### Final Assessment
-The alert is classified as a **True Positive**, because the destination URL and IP address are flagged as MALICIOUS by TryDetectThis. The firewall correctly blocked the connection because the URL is on the company's blacklist.
+The alert is classified as a **True Positive** because the destination URL and IP address are identified as MALICIOUS by TryDetectThis and the firewall detected an attempted connection to the destination.
 
-No escalation is required, but monitoring continues. The firewall handled the threat automatically and there was no compromise.
+The connection was successfully blocked by the firewall and no evidence of successful compromise was identified within the available telemetry. Based on the available evidence, no escalation is required at this time.
+
+Continued monitoring is recommended for any subsequent suspicious activity involving the affected user or host.
 
 ### Remediation Recommendation
-No remediation actions is required.
+No remediation action is required.
