@@ -44,7 +44,6 @@ Since the user accessed a malicious URL and the firewall allowed the connection,
 ### Remediation Recommendation
 - Monitor the affected user and endpoint
 - Review endpoint activity after URL access
-- Review DNS/proxy/network logs for related activity
 - Block the malicious URL and IP address
 - Isolate the endpoint if compromise is confirmed
 - Update email and web security controls
