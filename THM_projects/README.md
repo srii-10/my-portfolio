@@ -4,7 +4,7 @@ Hands-on cybersecurity projects completed through TryHackMe labs & challenges, w
 
 ### Projects
 
-#### Project 01 - Alert Investigation
+[Project 01 - Alert Investigation](#project-01---alert-investigation)
 **Cases:**
 - Case 01 - Legitimate Employee Onboarding Email
 - Case 02 - URL Shortening Sent by a Suspicious Sender
