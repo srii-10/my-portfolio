@@ -6,8 +6,8 @@ Hands-on cybersecurity projects completed through TryHackMe labs & challenges, w
 
 **[Project 01 - Alert Investigation](./Alert_Investigation/)**
 
-**Cases:**
-- Case 01 - Legitimate Employee Onboarding Email
-- Case 02 - URL Shortening Sent by a Suspicious Sender
-- Case 03 - Blacklisted External URL Blocked by Firewall
-- Case 04 - Spoofed Domain Sending Suspicious URL
+  **Cases:**
+  - Case 01 - Legitimate Employee Onboarding Email
+  - Case 02 - URL Shortening Sent by a Suspicious Sender
+  - Case 03 - Blacklisted External URL Blocked by Firewall
+  - Case 04 - Spoofed Domain Sending Suspicious URL
